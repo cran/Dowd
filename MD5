@@ -1,5 +1,5 @@
-8d3b798ea26be13facfa3a17583b4387 *DESCRIPTION
-ce0f7b83d2e322e6c560cb7273bc9e3c *NAMESPACE
+b98cbaf47817da538daef2d5b3e65207 *DESCRIPTION
+543fc0ef9432e1f7c8468f92ac6db647 *NAMESPACE
 a4bf904643f236e1fdbe59907ef8f2f0 *R/ADTestStat.R
 4e848d4c6f88413500b2f087d4e1aa26 *R/AdjustedNormalESHotspots.R
 b68be6db339a2e230f920e579bf2be6d *R/AdjustedNormalVaRHotspots.R
@@ -299,7 +299,6 @@ a574dc1462a0e19cca4c29d03ada9bee *man/tVaRFigure.Rd
 20c4ee94a87183dcddceaae67379563c *man/tVaRPlot3D.Rd
 eddd96aa767720457a1724207c6fa2bb *tests/testthat.R
 ec6b8077f85a7ac2ddeacf7fa3e08678 *tests/testthat/testADTestStat.R
-18ae35c234b59d9988e3ca317cb35aef *tests/testthat/testAdjustedNormalESHotspots.R
 3bff18a601a02fd14b999892a465c5e0 *tests/testthat/testAdjustedNormalVaRHotspots.R
 c2bd704f8b6d4242605c030cb1748306 *tests/testthat/testAdjustedVarianceCovarianceES.R
 61c8e1f4b1ba7ec1229ca72671df2d0b *tests/testthat/testAdjustedVarianceCovarianceVaR.R
